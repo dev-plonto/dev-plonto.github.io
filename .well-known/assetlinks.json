@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.dev_plonto.twa",
+    "sha256_cert_fingerprints":
+    ["5A:0F:D3:56:55:C6:E1:20:E6:69:24:56:23:67:BA:26:89:B2:78:3F:50:44:9C:49:CB:E1:89:D3:38:67:8E:AD"]
+  }
+}]
